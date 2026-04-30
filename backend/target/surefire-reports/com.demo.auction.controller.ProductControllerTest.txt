@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.auction.controller.ProductControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.378 s -- in com.demo.auction.controller.ProductControllerTest

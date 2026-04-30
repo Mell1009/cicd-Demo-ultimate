@@ -1,0 +1,6 @@
+com\demo\auction\controller\ProductController.class
+com\demo\auction\model\Product.class
+com\demo\auction\controller\HealthController.class
+com\demo\auction\model\Product$ProductBuilder.class
+com\demo\auction\AuctionApplication.class
+com\demo\auction\service\ProductService.class
