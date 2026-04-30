@@ -1,4 +1,4 @@
-# 🏛️ Online Auction — CI/CD Demo
+#  Online Auction — CI/CD Demo
 ### Capítulo 15: Continuous Integration and Continuous Deployment
 
 Pipeline CI/CD completo usando **GitHub Actions** con:
@@ -8,7 +8,7 @@ Pipeline CI/CD completo usando **GitHub Actions** con:
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 cicd-demo/
@@ -39,7 +39,7 @@ cicd-demo/
 
 ---
 
-## 🚀 Cómo usar este proyecto
+##  Cómo usar este proyecto
 
 ### Paso 1: Subir a GitHub
 
@@ -78,11 +78,11 @@ Al hacer `push` a `main`, GitHub Actions ejecutará:
 
 1. Ve a tu repositorio en GitHub
 2. Click en la pestaña **Actions**
-3. Verás el pipeline con todos los stages en verde ✅
+3. Verás el pipeline con todos los stages en verde 
 
 ---
 
-## 🔧 Ejecutar localmente
+##  Ejecutar localmente
 
 ### Backend (Spring Boot)
 
@@ -121,7 +121,7 @@ npm start
 
 ---
 
-## 🐳 Docker
+##  Docker
 
 ### Build local
 
@@ -140,7 +140,7 @@ docker run -p 8080:8080 ghcr.io/TU_USUARIO/auction-backend:latest
 
 ---
 
-## 📊 Diferencia vs. el libro (Capítulo 15)
+##  Diferencia vs. el libro (Capítulo 15)
 
 | Característica | Libro (Jenkins) | Este proyecto (GitHub Actions) |
 |---|---|---|
@@ -148,17 +148,17 @@ docker run -p 8080:8080 ghcr.io/TU_USUARIO/auction-backend:latest
 | Tunnel público | ngrok | No necesario |
 | Registry | Docker Hub | ghcr.io (incluido en GitHub) |
 | Config pipeline | Jenkinsfile | `.github/workflows/ci-cd.yml` |
-| Multi-plataforma | ✅ amd64 + arm64 | ✅ amd64 + arm64 |
+| Multi-plataforma | amd64 + arm64 |  amd64 + arm64 |
 | Trigger automático | GitHub Webhook | Nativo en GitHub |
 | Costo | Gratis (local) | Gratis (2000 min/mes) |
 
 ---
 
-## 🔑 Secrets necesarios
+##  Secrets necesarios
 
 | Secret | Valor | Dónde configurar |
 |---|---|---|
-| `GITHUB_TOKEN` | Automático ✅ | No necesitas hacer nada |
+| `GITHUB_TOKEN` | Automático  | No necesitas hacer nada |
 
 Para Docker Hub (alternativa al libro):
 | Secret | Valor |
@@ -168,7 +168,7 @@ Para Docker Hub (alternativa al libro):
 
 ---
 
-## 📖 Referencia al libro
+##  Referencia al libro
 
 Este proyecto implementa prácticamente los conceptos del **Capítulo 15**:
 
