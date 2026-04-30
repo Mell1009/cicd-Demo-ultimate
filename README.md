@@ -14,7 +14,7 @@ Pipeline CI/CD completo usando **GitHub Actions** con:
 cicd-demo/
 ├── .github/
 │   └── workflows/
-│       └── ci-cd.yml          ← ✅ Pipeline principal
+│       └── ci-cd.yml           Pipeline principal
 ├── backend/
 │   ├── src/
 │   │   ├── main/java/com/demo/auction/
