@@ -181,6 +181,12 @@ Este proyecto implementa prácticamente los conceptos del **Capítulo 15**:
   - Multi-arquitectura (amd64 + arm64)
 
 - **Jenkinsfile → workflow YAML:** Misma estructura declarativa,
+<<<<<<< HEAD
+  diferente sintaxis
+
+//Cambio
+=======
   diferente sintaxis jeje lol xd
 
 //Pruebas
+>>>>>>> 22ddf0c1584ea0a55add87ec2c6983e7d19bc5dc
