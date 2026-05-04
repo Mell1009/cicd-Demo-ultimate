@@ -6,8 +6,9 @@ Pipeline CI/CD completo usando **GitHub Actions** con:
 - **Frontend:** Angular 17
 - **Contenedor:** Docker → GitHub Container Registry (ghcr.io)
 
----
+---Hola
 
+# LUIS BALLAR ESTUVO AQUI
 ##  Estructura del Proyecto
 
 ```
@@ -181,6 +182,17 @@ Este proyecto implementa prácticamente los conceptos del **Capítulo 15**:
   - Multi-arquitectura (amd64 + arm64)
 
 - **Jenkinsfile → workflow YAML:** Misma estructura declarativa,
+<<<<<<< HEAD
+  diferente sintaxis
+
+//Cambio
+=======
   diferente sintaxis jeje lol xd
 
 //Pruebas
+>>>>>>> 22ddf0c1584ea0a55add87ec2c6983e7d19bc5dc
+
+
+
+..
+<- Configuración por Alejandro Porras (C26030) - 2026-05-04 -->
