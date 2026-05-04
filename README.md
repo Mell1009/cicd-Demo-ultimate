@@ -181,4 +181,4 @@ Este proyecto implementa prácticamente los conceptos del **Capítulo 15**:
   - Multi-arquitectura (amd64 + arm64)
 
 - **Jenkinsfile → workflow YAML:** Misma estructura declarativa,
-  diferente sintaxis
+  diferente sintaxis jeje lol xd
