@@ -6,8 +6,9 @@ Pipeline CI/CD completo usando **GitHub Actions** con:
 - **Frontend:** Angular 17
 - **Contenedor:** Docker → GitHub Container Registry (ghcr.io)
 
----
+---Hola
 
+# LUIS BALLAR ESTUVO AQUI
 ##  Estructura del Proyecto
 
 ```
