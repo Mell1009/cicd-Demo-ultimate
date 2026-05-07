@@ -1,6 +1,7 @@
 # Maven
 /target/
 backend/target/
+**/target/
 backend/.mvn/wrapper/maven-wrapper.jar
 !backend/.mvn/wrapper/maven-wrapper.properties
 
