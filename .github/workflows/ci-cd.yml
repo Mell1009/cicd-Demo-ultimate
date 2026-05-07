@@ -2,6 +2,10 @@ name: CI-CD Pipeline
 
 on: [push]
 
+permissions:
+  contents: read
+  packages: write
+
 jobs:
   build-test:
     runs-on: ubuntu-latest
