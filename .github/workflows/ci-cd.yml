@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
         with: { distribution: temurin, java-version: '17', cache: maven }
-      - name: Backend: build and test
+      - name: "Backend: build and test"
         working-directory: backend
         run: mvn -B verify
 
